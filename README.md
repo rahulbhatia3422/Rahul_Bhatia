@@ -1,15 +1,14 @@
 # Hi there 👋 I'm Rahul Bhatia  
 
-### 🚀 MCA Graduate (2025) | DevOps & Enterprise Support Enthusiast  
+### 🚀 Software Engineer | DevOps Engineer | MCA Graduate (2025)
 
 ---
 
 ## 👨‍💻 About Me
 
-I am an **MCA graduate (2025 pass-out)** with a strong Computer Science background and a keen interest in **DevOps, Cloud, and Enterprise Support**.  
-I enjoy working with tools that enable **automation, deployment, monitoring, and system reliability**.
+I am a **Software Engineer and DevOps professional** with hands-on experience in **backend development, cloud deployment, and CI/CD automation**. I have worked extensively with **Python-based backend frameworks**, DevOps tooling, and cloud platforms to build and support **production-ready, scalable systems**.
 
-I am a motivated fresher with a **strong learning mindset**, ready to work in **production-grade environments** and grow professionally.
+I have industry experience at **Capgemini India Pvt. Ltd.**, where I contributed to **DevOps operations, CI/CD pipelines, cloud deployments, and monitoring**. I am passionate about **automation, system reliability, and modern DevOps practices**.
 
 ---
 
@@ -26,54 +25,90 @@ I am a motivated fresher with a **strong learning mindset**, ready to work in **
 
 ---
 
-## 💻 Programming & Scripting Languages
+## 💻 Programming & Backend
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge)
 
 ---
 
-## 🖥️ OS & Database
+## 🖥️ OS, Monitoring & Databases
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 ---
 
-## 🌍 Languages Known
+## 💼 Professional Experience
 
-![English](https://img.shields.io/badge/English-02569B?style=for-the-badge)
-![German](https://img.shields.io/badge/German-000000?style=for-the-badge&logo=duolingo&logoColor=white)
+### 🏢 Capgemini India Private Ltd
 
-📘 **Duolingo Score (German): 24**
+**Analyst (DevOps Engineer)**  
+📍 Pune | 🗓 Aug 2025 – Nov 2025
+- Monitored application logs and system performance using Linux tools and cloud dashboards  
+- Supported CI/CD pipelines and resolved deployment issues  
+- Worked with **Git, Docker, AWS, and Terraform** for infrastructure and deployments  
+- Created technical documentation and followed DevOps best practices  
+
+**DevOps Engineer Intern**  
+🌍 Remote | 🗓 Feb 2025 – Aug 2025
+- Implemented CI/CD automation using **Jenkins and GitHub**
+- Deployed applications on **AWS** using **Docker, Terraform, and Ansible**
 
 ---
 
-## 🧠 Coding Practice
+## 🚀 Projects
 
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+### 🔹 End-to-End CI/CD Pipeline (Node.js)
+- Automated build and deployment using **Jenkins & Docker**
+- Provisioned AWS infrastructure using **Terraform (IaC)**
+- Configuration management using **Ansible**
+- Reduced deployment time by **35–40%**
 
-- Practicing Data Structures & Algorithms  
-- Improving problem-solving skills consistently  
+---
+
+## 🎓 Education
+- **MCA (9.91 CGPA)** — JSPM’s Rajarshi Shahu College of Engineering (2023–2025)
+- **BCA (7.8 CGPA)** — C. B. Patel Computer College (2020–2023)
+
+---
+
+## 📜 Certifications
+- AWS Cloud Practitioner Essentials  
+- Python for Data Science (NPTEL)  
+- Master Python Programming – Udemy  
+
+---
+
+## 📄 Research Publication
+- *“Unifying DevOps and Kubernetes: Automation Techniques for Modern Software Delivery”*
+
+---
+
+## 🌍 Languages
+- English  
+- Hindi  
+- Gujarati  
+- German 🇩🇪 (Duolingo Score: **24**)
 
 ---
 
 ## 🔗 Connect With Me
-
-- 💼 **LinkedIn:** https://www.linkedin.com/in/your-linkedin-username  
-- 💻 **GitHub:** https://github.com/rahulbhatia3422  
-- 🧠 **LeetCode:** https://leetcode.com/Rahul_Bhatia_03  
-- 📧 **Email:** rahulbhatia37293@gmail.com  
-- 📞 **Phone:** +91-9376816501  
+- 💼 LinkedIn: https://www.linkedin.com/in/your-linkedin-username  
+- 💻 GitHub: https://github.com/rahulbhatia3422  
+- 🧠 LeetCode: https://leetcode.com/Rahul_Bhatia_03  
+- 📧 Email: rahulbhatia37293@gmail.com  
+- 📞 Phone: +91-9376816501  
 
 ---
 
 ## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulbhatia3422&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulbhatia3422&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulbhatia3422&layout=compact)
 
----
-
-⭐ *“Learning continuously and building reliable systems step by step.”*
+⭐ *“Building reliable systems through automation, learning, and continuous improvement.”*
